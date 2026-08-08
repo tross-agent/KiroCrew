@@ -34,14 +34,11 @@ __pycache__/
 /.venv-x86/
 
 # Editor / IDE
-.vscode/
 .idea/
 pyrightconfig.json
 *.sublime-*
 
 # Environment (machine-specific paths)
-.env
-.env.local
 .install-method
 
 # Frontend
@@ -138,3 +135,7 @@ SESSION_SUMMARY.md
 
 # Internal migration worklog — deliberately untracked (contains pre-scrub notes)
 MOCHI_MIGRATION.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
